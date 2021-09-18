@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<img align="left" alt="Gils Github Stats" src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api?username=GilsMathew&hide=contribs,prs)/>"
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilsMathew)](https://github.com/anuraghazra/github-readme-stats)
