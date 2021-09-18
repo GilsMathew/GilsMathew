@@ -6,7 +6,9 @@
 
 ---
 
-![Gils's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilsMathew&show_icons=true&theme=radical)
+<a href="https://github.com/GilsMathew">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilsMathew&count_private=true&show_icons=true&theme=radical)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilsMathew&theme=default&layout=compact" />
+</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilsMathew)](https://github.com/anuraghazra/github-readme-stats)
+---
